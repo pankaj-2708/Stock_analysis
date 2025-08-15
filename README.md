@@ -6,7 +6,7 @@ A Python-based tool for collecting, analyzing, and visualizing stock market data
 ## 🛠 Tools and Technologies Used
 
 - **Python 3.10+**
-- **Libraries**: `pandas`, `numpy`, `matplotlib`, `requests`, `plotly`, `selenium`  , `bs4` 
+- **Libraries**: `pandas`, `numpy`, `matplotlib`, `requests`, `plotly`, `selenium`, `bs4` 
 - **Visualization**: Matplotlib and Plotly for plotting stock trends and metrics  
 - **Data Handling**: CSV, JSON, and HTML data formats  
 - **Web Scraping**: Selenium for fetching dynamic web data  
@@ -15,10 +15,13 @@ A Python-based tool for collecting, analyzing, and visualizing stock market data
 ## 🚀 Features
 
 - Fetch live and historical stock data  
-- Visualize stock trends, returns, and comparisons  using 65+ plots 
+- Visualize stock trends, returns, and comparisons using 65+ plots 
 - Save data locally in CSV/HTML formats  
 - Simple interface to analyze multiple stocks  
+- **Preview Mode**: View sample stock data without fetching live data
 
+> ⚠️ **Warning:** The data displayed in preview mode is **not up to date** and is for demonstration purposes only.
+> 🔗 **[Click here to open Preview](https://pankaj-2708.github.io/Stock_analysis/demo/demo.html)** 
 ## 📂 Project Structure
 
 ```
@@ -58,8 +61,8 @@ streamlit run main.py
 ```
 
 - Ensure `profile.json` and `com.txt` are properly configured.  
+- Use **preview mode** to view sample data without connecting to live sources.  
 - The results can be visualized directly in Python or saved as HTML/CSV.
-
 
 ## 🤝 Contributing
 
