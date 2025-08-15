@@ -1,0 +1,9 @@
+beautifulsoup4
+fake_useragent
+matplotlib
+numpy
+pandas
+plotly
+Requests
+selenium
+streamlit
