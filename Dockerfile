@@ -15,7 +15,7 @@ COPY . .
 EXPOSE 8501
 
 #command to start streamlit application
-CMD ["streamlit", "run", "main.py", "--server.port=8501", "--server.address=0.0.0.0"]
+CMD ["streamlit", "run", "main.py"]
 
 #docker command
 #docker build -t pankajmaulekhi/movie-recomm-frontend .
