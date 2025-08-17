@@ -1,7 +1,7 @@
 
 # 📈 Stock Analysis
 
-A Python-based tool for collecting, analyzing, and visualizing stock market data. This project provides insights into stock performance using historical and live market data.
+A Python-based tool for collecting, analyzing, and visualizing stock market data. This project provides insights into stock performance using historical and live market data. 
 
 ## 🛠 Tools and Technologies Used
 
